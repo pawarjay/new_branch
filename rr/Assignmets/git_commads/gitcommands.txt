@@ -1,0 +1,138 @@
+   1)  1st Command git init
+   2)  git push -u origin
+   3)  git push -u origin master
+   4)  git --stat
+   5)  git --status
+   6)  git status
+   --------------------------------------------------------------------------
+   7)  git commit -m"BookStore"  {save local changes}
+   
+   8)  git add -A
+   
+   26  git status
+   
+   27  git commit -m"BookStore"
+   
+   28  git status
+   
+   29  git remote add origin git@github.com:skjzzb/BookStore.git
+   
+   30  git push -u origin master
+   
+   31  git remote add origin git@github.com:skjzzb/BookStore.git
+   
+   32  git remote add origin git@github.com:skjzzb/BookStore.git
+   
+   33  git push -u origin master
+   
+   35  sudo git push -u origin master
+   
+   36  git remote add origin https://github.com/skjzzb/BookStore.git
+   
+   37  git remote add origin git@github.com:skjzzb/DemoBook.git
+   
+   38  git remote -v
+   
+   39  git remote remove origin
+   
+   40  git remote -v
+   
+   41  git remote add origin git@github.com:skjzzb/DemoBook.git
+   
+   42  git remote add origin https://github.com/skjzzb/BookStore.git
+   
+   43  git remote add origin git@github.com:skjzzb/BookStore.git
+   
+   44  git push -u origin master
+   
+   45  $git config --get remote.origin.url
+   
+   46  git config --get remote.origin.url
+   
+   60  git push -u origin master
+   
+   62  git push -u origin master
+   
+   64  git remote add origin git@github.com:skjzzb/BookStore.git
+   
+   65  git push -u origin master
+   
+   66  git status
+   
+   67  git add -A
+   
+   68  git status
+   
+   69  git commit -m "Books"
+   
+   70  git remote add origin git@github.com:skjzzb/BookStore.git
+   
+   71  git push -u origin master
+   
+   72  git remote add origin git@github.com:skjzzb/BookStore.git
+   
+   73  git branch
+   
+   75  git status
+   
+   76  git log
+   
+   77  git push -u origin master
+   
+   78  git remote add origin https://github.com/skjzzb/BookStore.git
+   
+   79  git push -u origin1
+   
+   80  git remote add origin https://github.com/skjzzb/BookStore.git
+   
+   81  git remote add origin1 https://github.com/skjzzb/BookStore.git
+   
+   82  git push -u origin1
+   
+   84  git commit
+   
+   85  git log --stat$  $
+   
+   86  git commit
+   
+   87  git commitgit status
+   
+   88  git status
+   
+   91  git diff
+   
+   92  git diff
+   
+   93  git init
+  
+  101  git add .
+
+---------------------------Today------------------------------
+  109  git init
+
+  110  git add .
+
+  111  git commit -m "initial commit"
+
+  112  git remote add origin remote repository URL
+
+  113  git remote add origin remote repository https://github.com/skjzzb/jink.git
+
+  114  git remote add origin remote  https://github.com/skjzzb/jink.git
+
+  115  git remote -v
+
+  116  git push -f origin master
+
+  117  git remote add github https://github.com/skjzzb/jink.git
+
+  118  git remote -v
+
+  119  git push -f github master
+
+
+
+
+
+
+
